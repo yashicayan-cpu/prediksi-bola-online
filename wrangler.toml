@@ -1,0 +1,8 @@
+name = "prediksi-bola"
+main = "src/index.js"
+compatibility_date = "2026-09-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "prediksi-bola-db"
+database_id = "GANTI_DENGAN_DATABASE_ID_KAMU"
